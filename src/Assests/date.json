@@ -1,0 +1,143 @@
+[
+
+  {
+    "name": "Verify Certificate",
+    "id": 19,
+    "children": [
+      {
+        "id": 21,
+        "name": "Verification Tool",
+        "url":"/ew"
+      },
+      {
+        "id": 22,
+        "name": "What Is Apt's blockchain Enable Certification Tool",
+        "url":"/ew"
+      }
+    ]
+  },
+  {
+    "name": "Learning Paths",
+    "id": 15,
+    "children": [
+      {
+        "id": 31,
+        "name": "Accounting & Finance",
+        "url":"/ew"
+      },
+      {
+        "id": 32,
+        "name": "Analytics",
+        "url":"/ew"
+      },
+      {
+        "id": 33,
+        "name": "Artificial Inteligence",
+        "url":"/ew"
+
+      },
+      {
+        "id": 34,
+        "name": "Cloud Developer",
+        "url":"/ew"
+
+      },
+      {
+        "id": 35,
+        "name": "Data Engineering",
+        "url":"/ew"
+
+      },
+      {
+        "id": 36,
+        "name": "Data Science",
+        "url":"/ew"
+
+      },
+      {
+        "id": 37,
+        "name": "Manufacturing & Supply Chain",
+        "url":"/ew"
+
+      },
+      {
+        "id": 38,
+        "name": "Marketing",
+        "url":"/ew"
+
+      },
+      
+      {
+        "id": 39,
+        "name": "Operation",
+        "url":"/ew"
+
+      },
+      
+      {
+        "id": 40,
+        "name": "Web Developer",
+        "url":"/ew"
+
+      },
+      {
+        "id": 41,
+        "name": "Security",
+        "url":"/ew"
+
+      }
+            
+
+
+
+
+    ]
+  },
+  {
+    "name": "By Products",
+    "id": 40,
+    "children": [
+      {
+        "name": "Apt",
+        "id": 41,
+        "url":"/ew"
+      },
+      {
+        "name": "GoDaddy",
+        "id": 42,
+        "url":"/ew"
+      },
+      {
+        "name": "microsoft Azure",
+        "id": 43,
+        "url":"/ew"
+      },
+      {
+        "name": "Microsoft Dynamics",
+        "id": 44,
+        "url":"/ew"
+      },
+      {
+        "name": "Microsoft Office",
+        "id": 45,
+        "url":"/ew"
+      }
+
+    ]
+  },
+  {
+    "name": "About Apt",
+    "id": 17,
+    "children": [
+      {
+        "id": 39,
+        "name": "Request A Callback"
+      },
+      {
+        "id": 38,
+        "name": "About Us",
+        "url":"#footer"
+      }
+    ]
+  }
+]

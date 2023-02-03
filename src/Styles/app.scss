@@ -1,0 +1,41 @@
+@import "Header.scss";
+@import "static.scss";
+@import "Home.scss";
+@import "Work.scss";
+@import "Service.scss";
+@import "Time.scss";
+@import "Ew.scss";
+@import "Footer.scss";
+
+
+
+
+
+*{
+
+    margin: 0%;
+    padding: 0%;
+    font-family: $text2;
+    text-decoration: none;
+    box-sizing: border-box;
+    scroll-behavior: smooth; 	
+}
+a{
+
+    text-decoration: none;
+}
+body{
+
+    background-color: $color1; 	
+    overflow-x: hidden;
+}
+.disanblehid{
+    background-color: rgb(237,237,237);
+    cursor:not-allowed; 	
+
+} 	
+
+
+
+
+

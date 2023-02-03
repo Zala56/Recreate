@@ -1,0 +1,38 @@
+{
+    "projects": [
+      {
+        
+        "title": "ARTIFICIAL INTELLIGENCE",
+        "description": "Being able to consume, operate, secure and monitor intelligent services"
+     
+       
+      },
+  
+      {
+        
+        "title": "DATA ENGINEERING",
+        "description": "From managing data lakes to warehousing, OLAP deals with building ETL/ELT pipelines"
+      },
+      {
+    
+        "title": "MACHINE LEARNING",
+        "description": "Deep dive into practical Statistical and Deep Learning with deployment and MLOps"
+      },
+  
+      {
+    
+        "title": "INTERNET OF THINGS",
+        "description": "Being able to collect, accumulate, manage device and data centrally from range of sensors and 'things'"
+      },
+        {
+    
+        "title": "DATA PLATFORMS",
+        "description": "Specialized SQL Server, Synapse Analytics, BigQuery, BigTable and MongoDB trainings"
+      },
+      {
+    
+        "title": "CLOUD COMPUTING",
+        "description": "Specialized SQL Server, Synapse Analytics, BigQuery, BigTable and MongoDB trainings"
+      }
+    ]
+  }
